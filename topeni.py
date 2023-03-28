@@ -17,7 +17,9 @@ class Heating:
     def getTemperature(cls):
         return cls.temperature
 
-    #testovací uprava pro git.
+    #testovací uprava pro git
+    #test pro github
+    
     
     #kdy začít topit
     @classmethod
