@@ -19,8 +19,8 @@ class Heating:
 
     #testovací uprava pro git
     #test pro github
-    
-    
+    #úpravaaaaaaaaaaaa
+
     #kdy začít topit
     @classmethod
     def setTemperatureToHeat(cls, temperatureToHeat):
